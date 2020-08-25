@@ -31,7 +31,7 @@ public class Cliente {
 			
 			System.out.println("Conectados");
 			
-			String path = "D:/Test/Recibidos/java.pdf";
+			String path = "D:\\Documents\\Quinto Semestre\\ProRed\\Test\\Recibidos\\java.pdf";
 			File recieved = new File(path);
 			
 			
